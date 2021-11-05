@@ -12,7 +12,7 @@ export default function Home() {
             </Head>
 
             <div>
-                <h1 className={classes.title}>Home Page</h1>
+                <h1 className={classes.title}>Home Page Andre maesha</h1>
                 <p className={classes.text}>
                     Lorem Ipsum is simply dummy text of the printing and
                     typesetting industry. Lorem Ipsum has been the
